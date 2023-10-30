@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    background-color: #7fffd4;
+    border-radius: 20px;
+}
+
+img[src="pw skill img.png"] {
+    margin-top: 15px;
+    border-radius: 10px;
+    margin-left: 12px;
+    height: 205px;
+    width: 375px;
+}
+p{
+    text-align: center;
+    text-overflow: hidden;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right:50px;
+}
+
+.container:hover {
+  opacity: 0.5;
+}

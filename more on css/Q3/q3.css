@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding: 0;
+    background-color: rgb(93, 93, 228);
+    overflow: hidden;
+}
+/* li a:hover {
+    background-color: #cc4646;
+  } */
+
+
+li{
+    float: left;
+
+}
+li a{
+    display: block;
+    padding: 23px 23px;
+    color: white;
+}
+
+
+
+li a:hover {
+    background-color: #19d01c;
+  }
+  .child1{
+    border:dashed;
+  }
+  .child2{
+      
+     border: dotted;
+  }
+  .child3{
+  border:double;
+  }
+  .child4{
+    border: outset;
+  }
+  .child5{
+      
+ border:groove;
+  }
